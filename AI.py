@@ -90,7 +90,7 @@ if __name__ == "__main__":
             print(songs)
             os.startfile(os.path.join(music_dir, songs[0]))
 
-       # elif 'play vedios' in query:
+       # elif 'play videos' in query:
         #    music_dir = "D:\\album song"
          #   songs = os.listdir(videos_dir)
           #  print(songs)
